@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 <!--
-**AlexPshkov/AlexPshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Hey! Enjoy the day!
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daug32&hide_title=true&layout=compact&theme=radical&hide=pascal)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daug32&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+____** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
